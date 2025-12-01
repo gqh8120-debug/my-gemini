@@ -1,7 +1,7 @@
 {
   "name": "gemini-gqh",
   "version": "0.1.0",
-  "homepage": "https://gqh8120-debug.github.io/gemini-gqh",
+  "homepage": "https://gqh8120-debug.github.io/my-gemini",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
